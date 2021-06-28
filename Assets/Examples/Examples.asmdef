@@ -1,0 +1,16 @@
+{
+    "name": "Examples",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [
+        "CloudRendering"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
